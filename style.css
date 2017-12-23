@@ -1,0 +1,22 @@
+.jumbotron
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+#heading
+{
+	background-color: blue;
+	color:white;
+}
+#form-heading
+{
+	background: blue;
+	color: white;
+	padding:3px;
+	padding-left: 8px;
+}
+#submitbutton
+{
+	margin:10px;
+}
