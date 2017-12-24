@@ -15,8 +15,21 @@
 	color: white;
 	padding:3px;
 	padding-left: 8px;
+	
+	/*font-size: 12px;*/
 }
+.form-control,
 #submitbutton
 {
 	margin:10px;
+}
+
+.styling
+{
+	margin-left: 10px;
+}
+
+#submitbutton
+{
+	background-color: blue;
 }
